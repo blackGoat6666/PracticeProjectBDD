@@ -1,0 +1,4 @@
+ Adjunto las imagenes de los resultados de las reservas indicadas en esta carpeta.
+
+ Aclaro que en ningun momento la primer reserva me dio el error que se muestra, acerca de la vista, y adjunto captura.
+ Si habia tenido experiencias con ese error anteriormente en el proyecto, cuando de alguna forma deje el round por fuera de la expresion, parecia ser que era el tema de que multiplicaba y dejaba varios digitos despues del punto. Aún sin tirarme ese error en la vista en esta instancia, probe con usar el round con diversos valores por separado y con agregar a la vista los parametros para ver que estaba pasando, no encontre ningun valor que tirara error o diera algo fuera de enteros. 
